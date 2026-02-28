@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "6903091_m0",
+    "platform_number": "6903091",
+    "data_center": "IF",
+    "institution": "IF",
+    "platform_type": "ARVOR",
+    "positioning_system": "IRIDIUM",
+    "sensor": ["CTD_PRES", "CTD_TEMP", "CTD_CNDC"],
+    "cycle_number": 150,
+    "date_updated_argovis": "2020-01-15T00:00:00.000Z",
+    "most_recent_date": "2024-06-25T12:00:00.000Z",
+    "most_recent_lon": -12.4,
+    "most_recent_lat": 43.6
+  }
+]

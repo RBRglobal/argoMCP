@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "6903091_042",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [-12.345, 43.567]
+    },
+    "timestamp": "2024-06-15T12:00:00.000Z",
+    "data_mode": "D",
+    "metadata": ["6903091_m0"],
+    "cycle_number": 42
+  },
+  {
+    "_id": "6903091_043",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [-12.400, 43.600]
+    },
+    "timestamp": "2024-06-25T12:00:00.000Z",
+    "data_mode": "D",
+    "metadata": ["6903091_m0"],
+    "cycle_number": 43
+  },
+  {
+    "_id": "4902550_010",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [-11.500, 43.200]
+    },
+    "timestamp": "2024-06-20T08:00:00.000Z",
+    "data_mode": "R",
+    "metadata": ["4902550_m0"],
+    "cycle_number": 10
+  }
+]

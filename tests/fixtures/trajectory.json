@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "6903091_traj_001",
+    "geolocation": {"type": "Point", "coordinates": [-10.0, 43.0]},
+    "timestamp": "2020-01-20T00:00:00.000Z",
+    "cycle_number": 1,
+    "metadata": ["6903091_m0"]
+  },
+  {
+    "_id": "6903091_traj_002",
+    "geolocation": {"type": "Point", "coordinates": [-10.5, 43.1]},
+    "timestamp": "2020-02-05T00:00:00.000Z",
+    "cycle_number": 2,
+    "metadata": ["6903091_m0"]
+  },
+  {
+    "_id": "6903091_traj_003",
+    "geolocation": {"type": "Point", "coordinates": [-11.0, 43.3]},
+    "timestamp": "2020-02-20T00:00:00.000Z",
+    "cycle_number": 3,
+    "metadata": ["6903091_m0"]
+  }
+]
