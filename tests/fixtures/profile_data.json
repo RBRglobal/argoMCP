@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "6903091_042",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [-12.345, 43.567]
+    },
+    "timestamp": "2024-06-15T12:00:00.000Z",
+    "data_mode": "D",
+    "metadata": ["6903091_m0"],
+    "cycle_number": 42,
+    "data_info": [
+      ["pressure", "temperature", "salinity", "temperature_argoqc", "salinity_argoqc"],
+      ["units", "long_name"],
+      [
+        ["dbar", "Sea Pressure"],
+        ["degree_Celsius", "Sea Temperature"],
+        ["PSU", "Sea Salinity"],
+        ["", "Temperature QC"],
+        ["", "Salinity QC"]
+      ]
+    ],
+    "data": [
+      [5.0, 10.0, 20.0, 50.0, 100.0, 200.0, 500.0, 1000.0, 1500.0, 2000.0],
+      [18.5, 18.4, 18.2, 16.5, 14.2, 12.1, 8.5, 5.2, 3.8, 2.9],
+      [35.40, 35.41, 35.42, 35.50, 35.55, 35.60, 35.30, 35.10, 34.95, 34.90],
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    ]
+  }
+]
